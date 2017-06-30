@@ -1,4 +1,4 @@
-FROM node:0.12.15
+FROM node:6.4.0
 ENV MONGODB_VERSION 2.6.9
 
 MAINTAINER Sindre Seppola <sblix.dev@gmail.com>
